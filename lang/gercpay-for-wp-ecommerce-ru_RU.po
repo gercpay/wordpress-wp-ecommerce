@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP eCommerce - GercPay Payment Gateway\n"
+"POT-Creation-Date: 2023-09-13 16:09+0300\n"
+"PO-Revision-Date: 2023-09-13 16:10+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;esc_html__;esc_attr__\n"
+"X-Poedit-SearchPath-0: gercpay-for-wp-ecommerce.php\n"
+"X-Poedit-SearchPath-1: gercpay.cls.php\n"
+
+#: gercpay-for-wp-ecommerce.php:46
+#, php-format
+msgid ""
+"The minimum PHP version required for GercPay is %1$s. You are running %2$s."
+msgstr ""
+"Минимальная версия PHP, необходимая для GercPay, составляет %1$s. Вы "
+"используете %2$s."
+
+#: gercpay-for-wp-ecommerce.php:51
+#, php-format
+msgid ""
+"The minimum WordPress version required for GercPay is %1$s. You are running "
+"%2$s."
+msgstr ""
+"Минимальная версия WordPress, необходимая для GercPay, составляет %1$s. Вы "
+"используете %2$s."
+
+#: gercpay-for-wp-ecommerce.php:56
+msgid "WP eCommerce needs to be activated."
+msgstr "WP eCommerce необходимо активировать."
+
+#: gercpay-for-wp-ecommerce.php:63
+#, php-format
+msgid ""
+"The minimum WP eCommerce version required for GercPay is %1$s. You are "
+"running %2$s."
+msgstr ""
+"Минимальная версия WP eCommerce, необходимая для GercPay, составляет %1$s. "
+"Вы используете %2$s."
+
+#: gercpay-for-wp-ecommerce.php:115
+msgid "GercPay for WP eCommerce"
+msgstr "GercPay для WP eCommerce"
+
+#: gercpay-for-wp-ecommerce.php:116
+msgid "GercPay Payment Gateway for WP eCommerce."
+msgstr "Платежный шлюз GercPay для WP eCommerce."
+
+#: gercpay-for-wp-ecommerce.php:126
+msgid "Settings"
+msgstr "Настройки"
+
+#: gercpay-for-wp-ecommerce.php:194
+msgid "Payment by card on the site"
+msgstr "Оплата картой на сайте"
+
+#: gercpay-for-wp-ecommerce.php:335
+msgid "Payment page language"
+msgstr "Язык страницы оплаты"
+
+#: gercpay-for-wp-ecommerce.php:340
+msgid "The language of the GercPay payment page"
+msgstr "Язык страницы оплаты GercPay"
+
+#: gercpay-for-wp-ecommerce.php:361
+msgid "Merchant Account"
+msgstr "Идентификатор торговца"
+
+#: gercpay-for-wp-ecommerce.php:362 gercpay-for-wp-ecommerce.php:368
+msgid "Given to Merchant by GercPay"
+msgstr "Выдаётся торговцу системой GercPay"
+
+#: gercpay-for-wp-ecommerce.php:367
+msgid "Secret key"
+msgstr "Секретный ключ"
+
+#: gercpay-for-wp-ecommerce.php:373
+msgid "System URL"
+msgstr "Системный URL"
+
+#: gercpay-for-wp-ecommerce.php:374 gercpay-for-wp-ecommerce.php:380
+#: gercpay-for-wp-ecommerce.php:386 gercpay-for-wp-ecommerce.php:392
+msgid "Default URL"
+msgstr "URL по умолчанию"
+
+#: gercpay-for-wp-ecommerce.php:379
+msgid "Successful payment redirect URL"
+msgstr "URL перенаправления при успешном платеже"
+
+#: gercpay-for-wp-ecommerce.php:385
+msgid "Redirect URL failed to pay"
+msgstr "URL перенаправления при неудачном платеже"
+
+#: gercpay-for-wp-ecommerce.php:391
+msgid "Redirect URL in case of failure to make payment"
+msgstr "URL перенаправления при отклонении платежа"
+
+#: gercpay-for-wp-ecommerce.php:397
+msgid "URL of the result information"
+msgstr "URL для информации об оплате"
+
+#: gercpay-for-wp-ecommerce.php:398
+msgid ""
+"The URL to which will receive information about the result of the payment"
+msgstr "URL, по которому будет приходить информация о результате платежа"
+
+#: gercpay.cls.php:246
+msgid ""
+"An error has occurred during payment. Please contact us to ensure your order "
+"has submitted."
+msgstr ""
+"Произошла ошибка при оплате. Свяжитесь с нами, чтобы убедиться, что ваш "
+"заказ подтверждён."
+
+#: gercpay.cls.php:250
+msgid "An error has occurred during payment. Merchant data is incorrect."
+msgstr "Произошла ошибка при оплате. Данные продавца неверны."
+
+#: gercpay.cls.php:256
+msgid "An error has occurred during payment. Signature is not valid."
+msgstr "Произошла ошибка при оплате. Подпись недействительна."
