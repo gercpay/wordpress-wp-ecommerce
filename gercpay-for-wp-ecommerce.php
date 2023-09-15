@@ -4,7 +4,7 @@
  * Plugin URI:    https://gercpay.com.ua
  * Description:   GercPay Payment Gateway for WP eCommerce.
  * Version:       1.0.0
- * Author:        GercPay
+ * Author:        Mustpay
  * Author URI:    https://mustpay.tech
  * Domain Path:   /lang
  * Text Domain:   gercpay-for-wp-ecommerce
