@@ -47,7 +47,7 @@ class GercPay extends wpsc_merchant {
 	const ORDER_APPROVED             = 'Approved';
 	const ORDER_DECLINED             = 'Declined';
 	const RESPONSE_TYPE_REVERSE      = 'reverse';
-	const GERCPAY_ALLOWED_LOCALES = array( 'en', 'ru', 'uk' );
+	const GERCPAY_ALLOWED_LOCALES = array( 'en', 'ru', 'ua' );
 	const CURRENCY_HRYVNA            = 'UAH';
 
 	/**
