@@ -371,7 +371,7 @@ function get_gercpay_form_init() {
 		),
 		'gercpay_url'          => array(
 			'name'    => esc_html__( 'System URL', 'gercpay-for-wp-ecommerce' ),
-			'subText' => esc_html__( 'Default URL', 'gercpay-for-wp-ecommerce' ) . ' - https://api.gercpay.com.ua/',
+			'subText' => esc_html__( 'Default URL', 'gercpay-for-wp-ecommerce' ) . ' - https://api.gercpay.com.ua/api/',
 			'isInput' => true,
 			'code'    => '',
 		),

@@ -89,7 +89,7 @@ class GercPay extends wpsc_merchant {
 		parent::__construct();
 		$this->url               = ( ! empty( get_option( 'gercpay_url' ) ) ) ?
 			esc_url( get_option( 'gercpay_url' ) ) :
-			'https://api.gercpay.com.ua/';
+			'https://api.gercpay.com.ua/api/';
 		$this->merchant_id       = esc_attr( get_option( 'gercpay_merchant_id' ) );
 		$this->secret_key        = esc_attr( get_option( 'gercpay_secret_key' ) );
 		$this->gercpay_locale = empty( get_option( 'gercpay_locale' ) ) ? 'en' : esc_attr( get_option( 'gercpay_locale' ) );
